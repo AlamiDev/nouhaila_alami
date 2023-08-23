@@ -4,8 +4,3 @@
 <h4 align="center">a Motivated person and a Data Analyst at Intelcia IT Solutions company, since November 2022. </h4>
 </div>
 </header>
-<body>
-  <h3>
-    Test
-  </h3>
-</body>
